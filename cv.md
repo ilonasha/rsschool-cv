@@ -6,11 +6,12 @@
 + **E-mail:** shaticaim@gmail.com
 + **GitHub:** ilonasha
 + **Diskord:** Ilona#1091
+
 ----------------
 ## About me
 
 I am a pharmacist with 5 years of experience, who decided to change everything. I love to study and constantly learn something new.
-I think, front-end development is exactly what I'm looking for.
+I think, frontend development is exactly what I'm looking for.
 
 ----------------
 ## Skills
@@ -30,7 +31,7 @@ function multiply(a, b){
 -----------------
 ## Experience
 Progect CV Markdown & Git
-https://ilonasha.github.io/rsschool-cv/cv
+  https://ilonasha.github.io/rsschool-cv/cv
 
 -----------------
 ## Education
@@ -42,4 +43,4 @@ https://ilonasha.github.io/rsschool-cv/cv
 
 -------------------
 ## Language
-English A2 (EPAM English test result)
+English **A2** (EPAM English test result)
