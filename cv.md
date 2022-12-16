@@ -30,7 +30,7 @@ function multiply(a, b){
 
 -----------------
 ## Experience
-Progect CV Markdown & Git  
+Project CV Markdown & Git  
 <https://ilonasha.github.io/rsschool-cv/cv>
 
 -----------------
