@@ -39,7 +39,7 @@ Progect CV Markdown & Git
   **«JavaScript/Front-end. Stage 0»**, RS Schools Course 
 
 2012 - 2017   
-  **Pharmasist**, Belarussian State Medical University
+  **Pharmacist**, Belarussian State Medical University
 
 -------------------
 ## Language
